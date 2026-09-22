@@ -6,3 +6,5 @@ updating readme
 update
 </br>
 Adding login feature
+</br>
+adding header and footer
